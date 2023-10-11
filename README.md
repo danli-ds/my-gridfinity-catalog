@@ -4,32 +4,14 @@
 | :---        |  ---: |     ---: |  ---: | :---       |
 | [Baseplates (OpenSCAD Customizable)](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_baseplate.scad) |          |  - | OpenSCAD | 2022-06-12 |  
 | [Basic Gridfinity Baseplates (CadQuery Customizable)](https://www.printables.com/model/170956-basic-gridfinity-baseplates-cadquery-customizable) | 1x1 - 10x10 | 22 | CadQuery | 2022-06-12 |
-| [Baseplates with Pressure Fit Magnets](https://www.printables.com/model/432024) | 1x1 - 7x7 | 130 | STL,F360,STP | 2023-03-30 |
-| [Base with Snap Connectors](https://www.printables.com/model/430144-gridfinity-base-with-snap-connectors) | 1x1 - 7x7 | 30 | STL,STP | 2023-03-30 |
-| [ClickFinity Baseplate - No Magnets](https://www.printables.com/model/452675-gridfinity-clickplates-no-magnets-universally-comp) | 1x1 - 7x7 | 49 | STL,F3D | 2023-05-16 | 
-| [Clickfinity Refined Baseplate](https://www.printables.com/model/506105-clickfinity-refined-baseplates) | 1x1-5x7 | 30 | STL | 2023-07-17 | 
-| [ClickPlate](https://github.com/jrymk/gridfinity-eco) - Secure **any** existing Gridfinity block without costly neodymium magnets and thick bin bottoms for the magnet holes | F3D available | - | Fusion 360, STL | 2023-03-19 |
 | [DDD Wall Control System](https://github.com/aderusha/DDD-Printable-Wall-Control-System/tree/main/Centerpieces/Gridfinity) | 2x2-5x9 | 15 | STL | 
-| [Ender 3 Baseplate Sidecar](https://thangs.com/designer/uigghjghjlghjghghj/3d-model/Gridfinity%2520Ender%25203%2520Baseplate%2520Sidecar-61668) | 1x1 | 1 | STL | 
-| [Ender 3 Power ledge Baseplate](https://thangs.com/designer/matty.nurseus/3d-model/Gridfinity%2520Power%2520ledge-62697) | 2x1 | 1 | STL | 2022-07-25 |
 | [Ender 3 Pro and V2 Baseplate double](https://www.thingiverse.com/thing:5393982) | 2x1 | 1 | STL | 2022-07-25 |2022-07-25 |
-| [Improved Baseplate](https://thangs.com/designer/christian.wilhelmsen2012/3d-model/Gridfinity%2520slightly%2520improved%2520frame%2520(no%2520rocking)-64672) | 2x2 - 6x6 | 8 | 3MF | 2022-06-12 |
-| [Magnet Light Baseplate](https://www.printables.com/model/250550-gridfinity-magnet-light-baseplate) | 1x1 - 8x8 | 36 | STL/F3D | 2022-10-30 | 
 | [Minimal Baseplate](https://thangs.com/designer/Ace%20G/3d-model/Minimal%2520Baseplate%25204x4.stl-260576) | 4x4 + Customizable | 1 | STL, F3D | 2022-08-12 |
 | [Parametric Wall Control Baseplates](https://thangs.com/designer/pathartl007/3d-model/Gridfinity%20Parametric%20Wall%20Control%20Baseplates-107139) | 4x1 - 5x6 | 18 | 3MF | 2022-06-12 |
-| [Pegboard](https://thangs.com/designer/sincityscales/3d-model/gridfinity%2520pegboard-62612) | 1x4 - 3x4 | 3 | STL | 2022-06-12 |
-| [Printer-Mounted Baseplates](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Printer-Mounted%20Baseplates-60929) - Baseplates that mount on various 3D printers | 1x1 |  6  | STL | 2022-06-12 |
-| [Screw Together Baseplate](https://www.printables.com/model/300603-gridfinity-screw-together-baseplate/files) | 1x1 - 7x7 | 28 |  STL | 2022-10-27 |
 | [Sideless Platforms](https://www.printables.com/model/209998-gridfinity-sideless-bins-and-platforms) | 1x1 - 5x5 | 15 | STL | 2022-06-18 |
-| [Snap Together Baseplate with Captured Magnets](https://www.printables.com/model/356890-gridfinity-snap-together-baseplate-with-captured-m) |  2x1 - 5x5 | 20 | 3MF, F3D, STEP | 2023-01-09 |
 | [Superlight Baseplates](https://www.printables.com/model/596506-gridfinity-superlight-baseplates) | 1x3 - 5x5 | 14 | STL | 2023-10-07 |
 | [Support-less Weighted Baseplates (CadQuery Customizable)](https://thangs.com/designer/jdegs/3d-model/Support-less%20Weighted%20Gridfinity%20Baseplates%20(CadQuery%20Customizable)-65042) | 1x1 - 7x7 | 13 | STL | 2022-06-12 | 28 | 
 | [Under-Desk Drawer](https://www.printables.com/model/267929-gridfinity-under-desk-drawer) | 4x4 | 1 | STL + STEP | 2022-09-21 |
-| [Vertical Baseplate](https://www.printables.com/model/229566-gridfinity-vertical-baseplate/files) | 4x3 | 1 | STL/F3D | 2022-07-25 |
-| [Wall Rack](https://thangs.com/designer/ashleyi100/3d-model/Gridfinity%2520Wall%2520Rack-62669?part=3080e1c0-6ce6-4cd3-a17e-1b8e37b7f676) | 1x4 | 1 | STL | 2022-06-17 |
-| [Weighted Baseplate 5x7.stl](https://social.thangs.com/m/187707) | 5x7 | 1 | STL | 2022-07-22 |
-| [Weighted Baseplate 7x7.stl](https://social.thangs.com/m/187945) | 7x7 | 1 | STL | 2022-07-22 |
-
 
 # Blocks
 
