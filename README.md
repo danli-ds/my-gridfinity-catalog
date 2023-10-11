@@ -46,8 +46,6 @@
 | [Open Ended Holders](https://thangs.com/designer/atucom/3d-model/Gridfinity%2520Open%2520Ended%2520Holders-62240) | 1x5 - 4x5 | 10 | STL | 2022-07-21 |
 | [Parametric Bottle with Cap](https://www.printables.com/model/278947-gridfinity-parametric-bottle-with-knurled-cap) | 1x1-4x4 | 7 | STL,F3D | 2022-09-26 |
 | [Bin - Vase Mode](https://www.tinkercad.com/things/eGFlfBAA6Jx-1x4x77-vase-mode) | 1x4 | 1 | Tinkercad | 2022-12-06 |
-| [Plain Bin](https://thangs.com/designer/pmcquay/3d-model/gridfinity%20plain%20bins-61698) | 1x1-3x4 | 26 | 3MF | 2022-06-12 |
-| [Plain Bins](https://thangs.com/designer/robert.j.paisley/3d-model/Plain%2520Bins-73750) | 3x6 | 2 | STL | 2022-07-25 |
 | [(Plain Bin) Dispenser lids](https://thangs.com/designer/robert.j.paisley/3d-model/Dispenser%2520lids-73748) | 3x6 | 2 | STL | 2022-07-25 |
 | [(Modified) Pliers Rack](https://github.com/nerpatech/gridfinity-pliers-rack/tree/dev-local) | 2x2 - 2x4 | 2 | AMF | 2023-10-07 |
 | [Post-It Stack Container](https://www.printables.com/model/251977-gridfinity-post-it-stack-container) | 2x2 | 1 | STL | 2022-08-16 |
