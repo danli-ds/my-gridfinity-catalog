@@ -6,7 +6,6 @@
 | [Basic Gridfinity Baseplates (CadQuery Customizable)](https://www.printables.com/model/170956-basic-gridfinity-baseplates-cadquery-customizable) | 1x1 - 10x10 | 22 | CadQuery | 2022-06-12 |
 | [DDD Wall Control System](https://github.com/aderusha/DDD-Printable-Wall-Control-System/tree/main/Centerpieces/Gridfinity) | 2x2-5x9 | 15 | STL | 
 | [Ender 3 Pro and V2 Baseplate double](https://www.thingiverse.com/thing:5393982) | 2x1 | 1 | STL | 2022-07-25 |2022-07-25 |
-| [Minimal Baseplate](https://thangs.com/designer/Ace%20G/3d-model/Minimal%2520Baseplate%25204x4.stl-260576) | 4x4 + Customizable | 1 | STL, F3D | 2022-08-12 |
 | [Parametric Wall Control Baseplates](https://thangs.com/designer/pathartl007/3d-model/Gridfinity%20Parametric%20Wall%20Control%20Baseplates-107139) | 4x1 - 5x6 | 18 | 3MF | 2022-06-12 |
 | [Sideless Platforms](https://www.printables.com/model/209998-gridfinity-sideless-bins-and-platforms) | 1x1 - 5x5 | 15 | STL | 2022-06-18 |
 | [Superlight Baseplates](https://www.printables.com/model/596506-gridfinity-superlight-baseplates) | 1x3 - 5x5 | 14 | STL | 2023-10-07 |
@@ -32,7 +31,6 @@
 | [Flip-Top Container](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520Flip-Top%2520Container-192949) | 1x3 | 1 | STL | 2022-07-18 |
 | [Funnel](https://www.printables.com/model/188075-gridfinity-funnel) | 1x1 | 1 | STL | 2022-07-19 |
 | [Fusion360 Templates](https://thangs.com/designer/KptnAutismus/3d-model/Gridfinity%2520Templates%2520%28Filled%2520in%2520and%2520Hollow%29%2520for%2520Fusion360-202057) | Varies | 3 | F3D | 2022-09-26 |
-| [Glue Stick](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_glue_stick.scad) | 1x1 | 1 | OpenSCAD | 2022-06-12 |
 | [Gorilla Glue Holder](https://www.printables.com/model/185876-gridfinity-gorilla-glue-holder) | 1x1 | 1 | STL | 2022-07-01 |
 | [Half Boxes](https://www.printables.com/model/241907-gridfinity-half-box) | 0.5x1 - 0.5x3 | 10 | STL | 2022-09-19 |
 | [Height Tool](https://thangs.com/designer/myway2build3d/3d-model/Gridfinity%20Height%20Tool%20-666915) | 1x1 | 1 | STP + 3MF | 2023-03-15 |
