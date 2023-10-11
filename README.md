@@ -1,32 +1,7 @@
-# gridfinity-catalog
-This is a Catalog of Gridfinity designs and other relevant resources. Your pull requests are welcome!
-
-# Introduction
-In April of 2022, [Zack Freedman](https://www.youtube.com/c/ZackFreedman/about) announced Gridfinity to the world in this video:
-
-[![Gridfinity: Your Ultimate Modular Workshop is FREE!](https://img.youtube.com/vi/ra_9zU-mnl8/0.jpg)](https://www.youtube.com/watch?v=ra_9zU-mnl8)
-
-Using a design based on earlier work by [Alexandre Chappel](https://www.youtube.com/channel/UCe1Aj6VEO299Yq4WkXdoD3Q), Zack designed a modular system that uses a gridded baseplate that accommodates blocks (also referred to as boxes or bins) sized to fit into one or more grid cells. After the publication of Zack's video, other designers began to adopt existing designs and create new ones. This page is an attempt to catalog as many Gridfinity resources as possible.
-
-In July of 2022, Zack published a follow-on video to highlight a plethora of community designs:
-
-[![3D Print a Modular Toolbox, Soldering Station, and More!](https://img.youtube.com/vi/Bd4NnHvTRAY/0.jpg)](https://www.youtube.com/watch?v=Bd4NnHvTRAY)
-
-# Getting Started with Gridfinity
-
-* Pick a baseplate
-* Pick some boxes
-* Print
-* Use
-* Share
-* Learn about parameterization and customization
-
 # Baseplates
 
 | Description | Sizes | Variants |Format | Date Added |
 | :---        |  ---: |     ---: |  ---: | :---       |
-| [Baseplate 3x3.5](https://www.printables.com/model/244502-gridfinity-3x35) | 3x3.5 | 1 | STL | 2022-07-21 | 
-| [Baseplates](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%2520Baseplates-60925) | 1x2 - 7x7| 55 | STL | 2022-06-12 |
 | [Baseplates (OpenSCAD Customizable)](https://github.com/vector76/gridfinity_openscad/blob/main/gridfinity_baseplate.scad) |          |  - | OpenSCAD | 2022-06-12 |  
 | [Basic Gridfinity Baseplates (CadQuery Customizable)](https://www.printables.com/model/170956-basic-gridfinity-baseplates-cadquery-customizable) | 1x1 - 10x10 | 22 | CadQuery | 2022-06-12 |
 | [Baseplates with Pressure Fit Magnets](https://www.printables.com/model/432024) | 1x1 - 7x7 | 130 | STL,F360,STP | 2023-03-30 |
