@@ -38,10 +38,8 @@
 | [Hex Bit Holder](https://www.printables.com/model/236793-gridfinity-hex-bit-holder)| 1x3 | 2 | STL | 2022-07-08 | 
 | [Hex Bit Storage with Tray, 2x2](https://thangs.com/designer/beakerz/3d-model/Gridfinity%202x2%20Hex%20Bit%20Storage%20with%20Tray-62484) | 2x2 | 2 | STL | 2022-06-12 |
 | [Hex Bit Storage with Tray, 2x4](https://thangs.com/designer/beakerz/3d-model/Gridfinity%204x2%20Hex%20Bit%20Storage%20with%20Tray-62472) | 2x4 | 1 | STL | 2022-06-18 |
-| [Jumbo Glue Stick Holder](https://thangs.com/designer/kc0rpm/3d-model/Jumbo%20Glue%20Stick%20Holder.stl-74462) | 1x1 | 1 | STL | 2022-06-12 | 
 | [Lite Economical Plain Storage Bins](https://www.printables.com/model/265271-gridfinity-lite-economical-plain-storage-bins) | 1x1 - 6x6 | 84 | STL | 2023-10-03 |
 | [Lite Ultra Boxes](https://www.printables.com/model/435429-gridfinity-lite-ultra-boxes-improved-version-with-) |  168 | 1x1 - 5x5 | STL,F3D | 2023-05-16 |
-| [Modular Drawer System](https://www.printables.com/model/300896-gridfinity-modular-drawer-system) | 3x5 | 1 | STL | 2022-12-06 |
 | [OpenSCAD Templates](https://github.com/kennetek/gridfinity-rebuilt-openscad) | Varies | 2 | OpenSCAD | 2022-09-26 |
 | [Open Ended Holders](https://thangs.com/designer/atucom/3d-model/Gridfinity%2520Open%2520Ended%2520Holders-62240) | 1x5 - 4x5 | 10 | STL | 2022-07-21 |
 | [Parametric Bottle with Cap](https://www.printables.com/model/278947-gridfinity-parametric-bottle-with-knurled-cap) | 1x1-4x4 | 7 | STL,F3D | 2022-09-26 |
