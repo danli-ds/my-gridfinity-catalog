@@ -30,21 +30,13 @@
 | [Allen Key Metric](https://thangs.com/designer/gregbutorin/3d-model/Gridfinity%201x1%20Allen%20Key%20Metric.stl-66340) | 1x1 | 1 | STL | 2022-06-12 |
 | [Angled Bin](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Angled%20Bin-267623) | 4x2 | 1 + 4 inserts | STL | 2022-09-04 |
 | [Audio Jack Holder (3.5mm & 6.35mm)](https://thangs.com/designer/terra_blocks/3d-model/Gridfinity%25201x1x1%25203.5mm%2520and%25206.35mm%2520Audio%2520Jack%2520Holder-190314) | 1x1 | 1 | STL | 2022-07-11 |
-| [Bambu X1C Nozzles](https://thangs.com/designer/endolux/3d-model/Gridfinity%2520Bambu%2520X1C%2520Nozzles.stl-306832) | 1x1 | 1 | STL | 2022-09-04 |
 | [Basic Undivided Gridfinity Boxes](https://www.printables.com/model/174715-basic-undivided-gridfinity-boxes-cadquery-customiz) | 1x1 - 5x5 | 28 | CadQuery | 2022-06-12 | 
 | [Battery Box: CR2032/CR2016, 357/303/SR44 and A23/MN21/AAA slots](https://www.printables.com/model/208053-gridfinity-battery-box-cr2032cr2016-357303sr44-and) | 1x1 | 1 | 3MF/F3D | 2022-07-25 |
 | [Big Storage Boxes](https://www.printables.com/model/176917-gridfinity-big-storage-boxes) | 4x1 - 5x5 | 36 | STL | 2022-06-25 |
-| [Bins with Pressure Fit Magnets](https://www.printables.com/model/432024) | 1x1 - 7x7 | 1508 | STL,F360,STP | 2023-03-30 |
-| [Bolt Sorter](https://www.thingiverse.com/thing:5402658) | 1x2 | 1 | STL | 2022-09-04 |
-| [Bottle](https://thangs.com/designer/NKCVic/3d-model/Gridfinity%2520Bottle-62763) | 1x1 | 4 | STL | 2022-06-17 |
-| [Bottle Cap](https://thangs.com/designer/kkobold/3d-model/Gridfinity%2520Bottle%2520Cap-67096) | 1x1 | 1 | STL | 2022-07-25 |
 | [Bowls](https://www.printables.com/model/447389-gridfinity-bowls) | 1x1,1x2,1x4,2x2 | 4 | STL | 2023-04-09 |
-| [Breadboard Holders](https://www.printables.com/model/248418) | 1x2, 2x2, 2x4 | 3 | F3D + STL | 2022-09-04 |
 | [Cable Tray](https://www.printables.com/model/247724-gridfinity-cable-tray) | 1x3 | 1 | STL | 2022-08-16 | 
 | [Caliper Holder](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Caliper%20Holder-62216) | 1x2 | 1  | STL | 2022-06-16 |
-| [Can Holder](https://www.printables.com/model/245372-gridfinity-can-holder) | 2x2 | 1 | STL | 2022-07-21 |
 | [Case for Scalpels](https://www.printables.com/model/241400) | 4x2 | 1 | F3D + STL | 2022-09-04 |
-| Celtic Knot Bin | 1x1 ([std](https://social.thangs.com/m/733950), [ext](https://social.thangs.com/m/733951)), 1x2 ([std](https://social.thangs.com/m/733953), [ext](https://social.thangs.com/m/733956)), 2x2 ([std](https://social.thangs.com/m/733962), [ext](https://social.thangs.com/m/733965)) | 1 | STL | 2023-03-15 |
 | [Cigfinity Pack Dispenser](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%20%7C%20Cigfinity%20Pack%20Dispenser-212826) | 3x2 | 2 | STL | 2022-09-04 |
 | [Coin Cell Battery Holder](https://thangs.com/designer/bcsmithies/3d-model/Gridfinity%20Coin%20Cell%20Battery%20Holders-72538) | 1x1, 1x2 | 1 | STL | 2022-06-12 |
 | [Credit Cards](https://thangs.com/designer/Alex%20Dresko/3d-model/Gridfinity%2520credit%2520cards%25202x2-7-192951) |2x2 | 1 | STL | 2022-07-18 | 
@@ -55,8 +47,6 @@
 | [Divided Boxes (CadQuery Customizable)](https://thangs.com/designer/jdegs/3d-model/Divided%20Gridfinity%20Boxes%20(CadQuery%20Customizable)-64757) | 1x1 - 5x5 | 37 | STL | 2022-06-13 |
 | [Divided Vase Bins with Labels](https://www.printables.com/model/389300) | 1x1-1x5 | 120 | STL | 2023-02-26 |
 | [Door'ed Container](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520%257C%2520Door%27d%2520Container-200852) | 2x2 | 1 | STL | 2022-07-18 | 
-| [Drawers](https://thangs.com/designer/Machenna56k/3d-model/Gridfinity%2520Drawers-188528?s=09) | 2x3,4x6 | 6 | STL | 2022-07-21 | 
-| [Dremel Bit](https://thangs.com/designer/ash.westawizard/3d-model/gridfinity%20dremel%20bit%203x2-62856) | 3x2 | 1 | STL | 2022-06-19 |
 | [Dremel Box Organizer](https://www.printables.com/model/217722-dremel-box-organiser-gridfinity-based) | - | 17 elements | STL | 2022-07-19 |
 | [Drill Caddy](https://thangs.com/designer/Zwierzak%252C%2520Does%2520a%2520Thing/3d-model/Gridfinity%2520Drill%2520Caddy-65743) | 2x2 | 1 | STEP | 2022-09-04
 | [Filled Bins Full Height No Lip](https://www.printables.com/model/410744-gridfinity-filled-bins-full-height-no-lip) | 0.5x0x5 - 7x7 | 3MF | 2023-03-23 |
