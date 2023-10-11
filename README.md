@@ -10,7 +10,6 @@
 | [Sideless Platforms](https://www.printables.com/model/209998-gridfinity-sideless-bins-and-platforms) | 1x1 - 5x5 | 15 | STL | 2022-06-18 |
 | [Superlight Baseplates](https://www.printables.com/model/596506-gridfinity-superlight-baseplates) | 1x3 - 5x5 | 14 | STL | 2023-10-07 |
 | [Support-less Weighted Baseplates (CadQuery Customizable)](https://thangs.com/designer/jdegs/3d-model/Support-less%20Weighted%20Gridfinity%20Baseplates%20(CadQuery%20Customizable)-65042) | 1x1 - 7x7 | 13 | STL | 2022-06-12 | 28 | 
-| [Under-Desk Drawer](https://www.printables.com/model/267929-gridfinity-under-desk-drawer) | 4x4 | 1 | STL + STEP | 2022-09-21 |
 
 # Blocks
 
@@ -84,7 +83,6 @@
 | [Wera Screwdriver Holder](https://www.printables.com/model/232947-gridfinity-wera-screwdriver-holder) | 1x3 | 1 | STL | 2022-07-01 |
 | [Wire Spool Holder](https://thangs.com/designer/bigbrisco/3d-model/%2523Gridfinity%2520Wire%2520Spool%2520Holder-61472) | 4x1 | 1 | STL/F3D | 2022-07-25 |
 | [Workbench Dremel Bit storage Remix](https://thangs.com/designer/thing3dyer/3d-model/%2523Gridfinity%2520Workbench%2520Dremel%2520Bit%2520storage%2520Remix-63134) | 5x3 | 1 | STL | 2022-07-25 |
-| [Xacto Holder](https://thangs.com/designer/kaspertulstrup/3d-model/%2523gridfinity%2520xacto%2520holder-67913) | 1x1 | 1 | STL | 2022-07-25 |
 
 # Adapters
 
@@ -110,7 +108,6 @@
 | [Modular Expandable Storage Box](https://www.printables.com/model/369813-fully-printable-gridfinity-box-parametric) | 2x3, 4x5, 4x7 | 3 | STL | 2023-01-16 | 
 | [Gridfinity Label Maker](https://www.printables.com/model/525297-gridfinity-label-maker) | - | 1 | EXE, STL, PDF | 2023-07-17 |
 | [Gridfinity Storage Box](https://www.printables.com/model/543553-gridfinity-storage-box-by-pred) | 4x3 - 7x6 | 6 | STL, F3D | 2023-08-31 |
-| [Gridfinity Storage Box - Prusa Mini](https://www.printables.com/model/556604-gridfinity-storage-box-by-pred-for-prusamini) | 3x3 | 1 | 3MF | 2023-10-03 |
 
 # Videos
 
@@ -121,21 +118,15 @@
 * [To Gridfinity and Beyond - Decluttering my Workshop with Gridfinity](https://www.youtube.com/watch?v=hTjcp_R7Bbg) - 2022-09-11.
 * [Overkill Gridfinity Baseplate](https://www.youtube.com/watch?v=EWTE9uL3jnQ) - 2022-10-27.
 * [Store Anything Anywhere with Gridfinity! 20+ Weird Printable Organizers by Makers Like You!](https://www.youtube.com/watch?v=7FCwMq-rVsY) - 2022-12-06.
-* [My TOP 3D Printed Organization Systems](https://www.youtube.com/watch?v=kN8-9mgatTo) - 2023-03-20.
 * [Gridfinity Tips: 3D Printing Your New Workshop Organization System](https://www.youtube.com/watch?v=KtbKwAuwv9s) - 2023-03-20.
 * [Spiralized Gridfinity Bins](https://www.youtube.com/watch?v=kjh1qQ6FsXY) - 2023-03-21.
-* [Gridfinity is Parameteric?](https://www.youtube.com/watch?v=WBBFElrOziI) - 2023-03-21.
-* [Aluminum Gridfinity](https://www.youtube.com/watch?v=OesuCeZICQ4) - 2023-03-21.
-* [Gridfinity Print Progress](https://www.youtube.com/watch?v=yihv38j6xeM) - 2023-03-21.
 * [Gridfinity Using OnShape](https://www.youtube.com/watch?v=95REky02tWE) - 2023-03-30.
 
 # Other Resources
 
 * [gridfinity_openscad](https://github.com/vector76/gridfinity_openscad) - OpenSCAD code to generate baseplates and other blocks (2022-06-12).
-* [/r/gridfinity](https://www.reddit.com/r/gridfinity/) - Gridfinity sub-Reddit.
 * [Custom Gridfinity Bins](https://github.com/RashKash103/custom-gridfinity-bins) - Python Script: This project will allow you to create custom Gridfinity divider bins.
 * [Gridfinity Rebuilt in OpenSCAD](https://github.com/kennetek/gridfinity-rebuilt-openscad) - Parameterized OpenSCAD for baseplates and bins, including vase mode (2022-12-06).
 * [Gridfinity Design Reference](https://gridfinity.xyz/specification/) - A reference tool for designing Gridfinity modules.
 * [Gridfinity Bin Generator](https://gridfinity.bouwens.co/) - Generates custom Gridfinity divider bin STL files.
-* [Gridfinity Freaks](https://www.facebook.com/groups/894771558536705) - Facebook Community.
  
